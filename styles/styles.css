@@ -529,27 +529,33 @@
   }
 }
 @media (min-width: 651px) and (max-width: 768px) {
+  #es-rc #es-rc-content .es-assets-mix-func-and-style__section-2-sodastream-image {
+    bottom: -58px;
+  }
+  #es-rc #es-rc-content .es-assets-mix-func-and-style::after {
+    height: 50px;
+  }
   #es-rc #es-rc-content .es-assets-mix-func-and-style__section-2 {
     width: 753px;
   }
   #es-rc #es-rc-content .es-assets-mix-func-and-style__section-2-image-container-text-title:nth-child(1) {
-    top: 215px;
+    top: 162px;
     left: 65px;
   }
   #es-rc #es-rc-content .es-assets-mix-func-and-style__section-2-image-container-text-title:nth-child(2) {
-    top: 380px;
+    top: 328px;
     left: 60px;
   }
   #es-rc #es-rc-content .es-assets-mix-func-and-style__section-2-image-container-text-title:nth-child(3) {
-    top: 540px;
+    top: 490px;
     left: 60px;
   }
   #es-rc #es-rc-content .es-assets-mix-func-and-style__section-2-image-container-text-title:nth-child(4) {
-    top: 295px;
-    left: 435px;
+    top: 240px;
+    left: 442px;
   }
   #es-rc #es-rc-content .es-assets-mix-func-and-style__section-2-image-container-text-title:nth-child(5) {
-    top: 475px;
+    top: 420px;
     left: 445px;
   }
   #es-rc #es-rc-content .es-assets-mix-gas-and-taste__image-container-text-title {
@@ -612,27 +618,33 @@
   }
 }
 @media (min-width: 769px) and (max-width: 998px) {
+  #es-rc #es-rc-content .es-assets-mix-func-and-style__section-2-sodastream-image {
+    bottom: -58px;
+  }
+  #es-rc #es-rc-content .es-assets-mix-func-and-style::after {
+    height: 50px;
+  }
   #es-rc #es-rc-content .es-assets-mix-func-and-style__section-2 {
     width: 753px;
   }
   #es-rc #es-rc-content .es-assets-mix-func-and-style__section-2-image-container-text-title:nth-child(1) {
-    top: 215px;
+    top: 162px;
     left: 65px;
   }
   #es-rc #es-rc-content .es-assets-mix-func-and-style__section-2-image-container-text-title:nth-child(2) {
-    top: 380px;
+    top: 328px;
     left: 60px;
   }
   #es-rc #es-rc-content .es-assets-mix-func-and-style__section-2-image-container-text-title:nth-child(3) {
-    top: 540px;
+    top: 490px;
     left: 60px;
   }
   #es-rc #es-rc-content .es-assets-mix-func-and-style__section-2-image-container-text-title:nth-child(4) {
-    top: 295px;
-    left: 435px;
+    top: 240px;
+    left: 442px;
   }
   #es-rc #es-rc-content .es-assets-mix-func-and-style__section-2-image-container-text-title:nth-child(5) {
-    top: 475px;
+    top: 420px;
     left: 445px;
   }
   #es-rc #es-rc-content .es-gas-and-mix__section-1 {
